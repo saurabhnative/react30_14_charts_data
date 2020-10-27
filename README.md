@@ -10,6 +10,9 @@ Build a charts app using recharts
 ### Learnings:
 Learn how to build charts and visualisations in react.js
 
+### Demo   
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1603818455/Blogimages/Untitled_scoeup.gif" > 
+
 ## Available Scripts
 In the project directory, you can run:
 
