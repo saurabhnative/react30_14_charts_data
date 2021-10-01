@@ -14,6 +14,11 @@
 <p><a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structures">WorldBankAPI</a></p>
 <h3 id="learnings">Learnings:</h3>
 <p>Learn how to build charts and visualisations in react.js</p>
+
+<h3 id="learningresources">Learning Resources:</h3>
+<!-- Add learning resources here -->
+
+
 <h3 id="demo">Demo</h3>
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1603818455/Blogimages/Untitled_scoeup.gif"> 
 <h2 id="available-scripts">Available Scripts</h2>
